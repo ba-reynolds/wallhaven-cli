@@ -2,6 +2,8 @@
 
 A simple command-line tool to download wallpapers from [wallhaven.cc](https://wallhaven.cc) using their public API. Download multiple wallpapers concurrently, filter by categories, purity, resolution, and more. Progress bars are shown for each download.
 
+https://github.com/user-attachments/assets/2af33ee8-702c-4e02-b97c-fca06e86c0a0
+
 ## Features
 
 - Download wallpapers by search query, category, purity, and resolution
